@@ -6,13 +6,13 @@ Maintained by **[@Cubik65536](https://github.com/Cubik65536)** and his team at *
 
 - The final interpretation of the content in this repo belongs to **[@Cubik65536](https://github.com/Cubik65536)** and **[@OpenCubikLicenseOrg](https://github.com/OpenCubikLicenseOrg)**.
 - **[@Cubik65536](https://github.com/Cubik65536)** and **[@OpenCubikLicenseOrg](https://github.com/OpenCubikLicenseOrg)** have all right reserved on this repo. 
-- **[@Cubik65536](https://github.com/Cubik65536)** have the highest priority.
+- **[@Cubik65536](https://github.com/Cubik65536)** has the highest priority.
 
 ------
 
 ## Background
 
-In 21 century, the world is changing. Considering the increasing of copyright awareness, the need of having a better way to protect the rights of the authors and the users of the software and information is quick climbing.
+In the 21st century, the world is changing. Considering the increasing of copyright awareness, the need of having a better way to protect the rights of the authors and the users of the software and information is quick climbing.
 
 To face this situation, the OpenCubik License Framework is developed.
 
